@@ -39,14 +39,13 @@
       "block_order": [
         "6be690ad-170e-4af3-9bbb-0a11620d222a"
       ],
-      "disabled": true,
       "settings": {
         "enable": true,
         "show_only_on_homepage": false,
         "enable_sticky_bar": false,
         "enable_carousel_on_desktop": true,
-        "backgound_color": "#5b6b47",
-        "text_color": "#efeae2",
+        "backgound_color": "#5B6B47",
+        "text_color": "#EFEAE2",
         "textlink_color_light": "rgba(0,0,0,0)",
         "backgound_color_dark": "#f4f4f2",
         "text_color_dark": "#2b2b2b",
@@ -65,7 +64,6 @@
     },
     "header": {
       "type": "header",
-      "disabled": true,
       "settings": {
         "menu": "main-menu",
         "select_motion": "hover",
@@ -79,9 +77,9 @@
         "enable_on_homepage": false,
         "enable_on_collection_page": false,
         "shadow": 0,
-        "text_color_light": "#2c2a26",
+        "text_color_light": "#2C2A26",
         "textlink_color_light": "rgba(0,0,0,0)",
-        "text_color_dark": "#2c2a26",
+        "text_color_dark": "#2C2A26",
         "textlink_color_dark": "rgba(0,0,0,0)",
         "shadow_color": "#000000",
         "shadow_color_dark": "#000000",
@@ -116,15 +114,14 @@
         "mobile-navigation-2",
         "mobile-navigation-3"
       ],
-      "disabled": true,
       "settings": {
         "menu": "main-menu",
         "show_language_selector": false,
         "show_currency_selector": false,
-        "background_color": "#efeae2",
-        "text_color": "#2c2a26",
-        "colors_text_link": "#5b6b47",
-        "divider_color": "#ded5cd",
+        "background_color": "#EFEAE2",
+        "text_color": "#2C2A26",
+        "colors_text_link": "#5B6B47",
+        "divider_color": "#DED5CD",
         "background_color_dark": "#343131",
         "text_color_dark": "#ffffff",
         "colors_text_link_dark": "#cac7c7",
