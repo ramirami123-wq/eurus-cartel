@@ -71,7 +71,7 @@
         "logo_position": "center",
         "mobile_header_layout": "center-left",
         "sticky_header_type": "on-scroll-up",
-        "logo_width": 280,
+        "logo_width": 380,
         "logo_width_mobile": 150,
         "show_social_icons": false,
         "enable_on_homepage": false,
